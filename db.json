@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "stuname": "tasleemraza",
+      "email": "baqar@54gmail.com",
+      "id": 4
+    },
+    {
+      "stuname": "ferhan ali",
+      "email": "tasleemraza051@gmail.com",
+      "id": 8
+    },
+    {
+      "stuname": "falcon_it",
+      "email": "falconitconsulting_company.com",
+      "id": 9
+    },
+    {
+      "stuname": "umair",
+      "email": "umair@gmail.com",
+      "id": 10
+    },
+    {
+      "stuname": "mobeen",
+      "email": "mobeen@gamil.com",
+      "id": 11
+    }
+  ]
+}
